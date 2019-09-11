@@ -10,7 +10,7 @@
     
 3. On-Site Question 2
 
-    Given a list of account ID numbers (integers) which contains duplicates , find the one unique integer. (the list is guaranteed to only     have one unique (non-duplicated) integer
+    Given a list of account ID numbers (integers) which contains duplicates , find the one unique integer. The list is guaranteed to only       have one unique (non-duplicated) integer
     
 4. On-Site Question 3
 
